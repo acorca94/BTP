@@ -1,2 +1,2 @@
 # BTP_ABAP
-Mi repositorio de SAP para BTP y ABAP
+Mi repositorio de SAP para BTP
